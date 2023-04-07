@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Google Cloud, Microsoft Azure, Kubernetes, DevOps and Certifications**
 
-- 📫 Let's talk about some business secrets here  **learngcpwithprerit@gmail.com**
+- 📫 Let's talk about some business secrets here  **techwithprerit@gmail.com**
 
 - ⚡ Fun fact **I love exploring nature and meeting people from various zones of the regions. Thus making my cluster globally available**
 <p>I like to solve real-world use cases & have more than 1+ YOE in helping clients, to optimize and modernize their Cloud infrastructure. Deployed 50+ Cloud Labs to the Production impacting 1 Million+ Clients. Highly Skilled in Google Cloud with good knowledge of different DevOps tools like Kubernetes, Jenkins, Terraform.</p>
