@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/prerit-munjal/overlay/background-image/)]
+[![MasterHead](https://storage.googleapis.com/github-prerit/Final.png)]
 <h1 align="center">Hi 👋, I'm Prerit Munjal</h1>
 <h3 align="center">A Cloud & DevOps Engineer, Cloud Mentor, Public Speaker & Content Creator</h3>
 
