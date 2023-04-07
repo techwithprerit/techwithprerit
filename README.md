@@ -9,8 +9,6 @@
 - 📫 Let's talk about some business secrets here  **techwithprerit@gmail.com**
 
 - ⚡ Fun fact **I love exploring nature and meeting people from various zones of the regions. Thus making my cluster globally available**
-<p>I like to solve real-world use cases & have more than 1+ YOE in helping clients, to optimize and modernize their Cloud infrastructure. Deployed 50+ Cloud Labs to the Production impacting 1 Million+ Clients. Highly Skilled in Google Cloud with good knowledge of different DevOps tools like Kubernetes, Jenkins, Terraform.</p>
-<p>I love mentoring and guiding people, though I am not inclined towards numbers, but the count of mentees just crossed 150.
 
 </p>
 <img align="right" alt="Me" width="400" src="https://seo-barcelona.com.es/wp-content/uploads/2020/05/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
