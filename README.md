@@ -1,4 +1,3 @@
-[https://drive.google.com/file/d/1otCcmtuJTJQoS_kV-d2c5ZVqfUj6zc2c/view?usp=drive_link]
 <h1 align="center">Hi 👋, I'm Prerit Munjal</h1>
 <h3 align="center">A Cloud & DevOps Engineer, Cloud Mentor, Public Speaker & Content Creator</h3>
 
